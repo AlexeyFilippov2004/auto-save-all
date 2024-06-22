@@ -17,7 +17,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   ```git clone https://github.com/AlexeyFilippov2004/auto-save-all.git```
+   ```git clone https://github.com/Filippov-Alexey/auto-save-all.git```
 
 2. Перейдите в папку проекта:
    ```cd auto-save-all```
